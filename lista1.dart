@@ -1,5 +1,6 @@
 void main() {
-  // Lista de numeros enteros     
+  // Lista de numeros enteros    
+  print("Cesar Reyes Vzquez 22308051281294 gpo 6.-J"); 
   List<int> numeros = [10,20,30];
   print("lista de numero senteros:"); 
   print(numeros);
